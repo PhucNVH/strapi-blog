@@ -6,7 +6,7 @@
 - Yarn: [yarn]
 
 ## Step
-- Run `yarn` to install packages
+- Run `yarn` to install packagesss
 - Run `yarn develop` to start servers.
 - Open browser and go to: 
     - Strapi CMS: `http://localhost:1337/admin`
